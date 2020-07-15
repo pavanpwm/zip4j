@@ -621,3 +621,12 @@ I am pretty sure that there are things to be improved), please let me know by op
 [8]: https://www.baeldung.com/java-storing-passwords
 [9]: https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT
 [10]: https://stackoverflow.com/questions/tagged/zip4j
+
+
+
+
+
+
+
+I dont know what to tell about this thing here!! This is just amazing.
+Believe me you will love it for its simplicity and its better, no the best, out of all the zip and unzip libs, if any in java. It took me a whole day to find such a beautiful lib and I am really thankful to its creator. God bless you. 
